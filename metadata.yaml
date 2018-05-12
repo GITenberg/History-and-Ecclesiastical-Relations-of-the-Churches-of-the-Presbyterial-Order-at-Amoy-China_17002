@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/7085
     wikipedia: http://en.wikipedia.org/wiki/John_Van_Nest_Talmage
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/17002#History-and-Ecclesiastical-Relations-of-the-Churches-of-the-Presbyterial-Order-at-Amoy-China
 gutenberg_bookshelf: Christianity
 gutenberg_issued: '2005-11-04'
 gutenberg_type: Text
