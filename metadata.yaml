@@ -1,0 +1,31 @@
+_repo: History-and-Ecclesiastical-Relations-of-the-Churches-of-the-Presbyterial-Order-at-Amoy-China_17002
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Talmage, John Van Nest
+    alias: Talmage, J. V. N. (John Van Nest)
+    birthdate: 1819
+    deathdate: 1892
+    gutenberg_agent_id: '7085'
+    url: http://www.gutenberg.org/2009/agents/7085
+    wikipedia: http://en.wikipedia.org/wiki/John_Van_Nest_Talmage
+description: ''
+gutenberg_bookshelf: Christianity
+gutenberg_issued: '2005-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '17002'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Presbyterian Church -- Missions'
+- !lcc 'BV'
+- !lcsh 'Missions -- China'
+title: History and Ecclesiastical Relations of the Churches of the Presbyterial Order
+  at Amoy, China
+url: http://www.gutenberg.org/ebooks/17002
